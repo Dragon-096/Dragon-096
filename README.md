@@ -1,51 +1,63 @@
 <div align="center">
- 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Swanand%20Jagdale&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics%20//%20Embedded%20Systems%20//%20Edge%20AI&descAlignY=51&descAlign=62)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=I+turn+code+into+motion.;Deploying+YOLOv8+on+Edge.;Coding+ARM7+%26+ESP32+firmware.;Building+autonomous+drones." alt="Typing SVG" /></a>
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:303030&height=350&section=header&text=SWANAND%20JAGDALE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=SYSTEM_ARCHITECT%20//%20ROBOTICS%20//%20EMBEDDED_AI&descAlignY=55&descAlign=60&fontColor=00FF99)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Initializing+Neural+Networks...;Calibrating+Sensors...;Deploying+YOLOv8+to+Edge...;System+Online." alt="Typing SVG" /></a>
+
+<img src="https://media.giphy.com/media/QHE5gWITE7srj6d3wD/giphy.gif" width="100%" height="5px">
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/URW2lPzihY5fq/giphy.gif" width="200" align="right">
+  
+  ### ⚡ **CORE PROTOCOLS**
+  
+  > *"I don't just write code; I compile movement."*
+  
+  I am an **Electronics Engineer** obsessed with giving machines a brain. I bridge the gap between **embedded hardware** and **computer vision** to create autonomous systems that navigate the real world. 
+
+</div>
+
+<br>
+
+<div align="center"> 
+
+### 🛠️ **THE ARMORY**
+
+<img src="https://media.giphy.com/media/TdlEzC98rO4Y7jC5W5/giphy.gif" width="40px"> **HARDWARE CONTROL** <img src="https://media.giphy.com/media/TdlEzC98rO4Y7jC5W5/giphy.gif" width="40px">
+
+![ARM](https://img.shields.io/badge/ARM_Cortex-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%23323330.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<img src="https://media.giphy.com/media/26tn33aiU1jV56Qwx/giphy.gif" width="40px"> **INTELLIGENCE & VISION** <img src="https://media.giphy.com/media/26tn33aiU1jV56Qwx/giphy.gif" width="40px">
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40px"> **FIRMWARE & TOOLS** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40px">
+
+![Embedded C](https://img.shields.io/badge/Embedded%20C-333333?style=for-the-badge&logo=c&logoColor=white) ![Keil](https://img.shields.io/badge/Keil_uVision-00599C?style=for-the-badge) ![Proteus](https://img.shields.io/badge/Proteus_Sim-FF4500?style=for-the-badge)
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/WNbhRBOqU5CkhbVMg0/giphy.gif" width="30">  **System Status: ONLINE** I don't just write code; I engineer behavior. My work lives at the intersection of **hardware constraints** and **intelligent software**. I build autonomous systems that see, think, and act in the real world.
+### 🛸 **MISSION LOG (PROJECTS)**
 
-From **Kalman filtering on drones** to **vision-guided pick-and-place bots**, I focus on low-level control, real-time operating parameters, and edge AI inference.
-
----
-
-### <img src="https://media.giphy.com/media/iTWrK3eMDKW8Rzkz4K/giphy.gif" width="35"> **The Arsenal**
-
-<div align="center">
-
-| **Core Logic** | **The Brains (MCU/MPU)** | **Vision & AI** |
-| :---: | :---: | :---: |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) |
-| ![Embedded C](https://img.shields.io/badge/Embedded_C-333333?style=for-the-badge) ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
-
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/LmqIsK7y4T69a/giphy.gif" width="35"> **Deployed Systems**
-
-> *"Sensors are the eyes, code is the brain, motors are the muscle."*
-
-* 🚁 **Aerial Autonomy:** Integrated **YOLOv8** on Raspberry Pi for real-time garbage detection with **Kalman filtering** for GPS stabilization.
-* 🤖 **Vision-Guided Robotics:** Engineered a differential-drive bot with **ESP32-CAM** pipelines for precise pick-and-place operations.
-* ⚡ **Embedded Control:** Developed LPC2148 (ARM7) firmware for smart sensor arrays and interrupt-driven real-time monitoring.
-* 🧭 **Navigation Algorithms:** Optimized autonomous pathfinding and maze solving using custom PID and threshold tuning.
+| **STATUS** | **DIRECTIVE** | **TECH STACK** |
+| :---: | :--- | :--- |
+| <img src="https://media.giphy.com/media/10SvWCbt1ytWYE/giphy.gif" width="50"> | **AI-Augmented Autonomous Drone** <br> <sub>Built a real-time waste detection drone. Applied **Kalman filtering** for GPS smoothing and built an **offline inference pipeline** on Raspberry Pi. </sub> | `YOLOv8` `Raspberry Pi` `Kalman Filter` |
+| <img src="https://media.giphy.com/media/3o7btQ8jDTPGDpgc6I/giphy.gif" width="50"> | **Vision-Guided ESP32 Robot** <br> <sub>Designed a differential-drive bot with **ESP32-CAM** vision pipelines for precise pick-and-place and motion stability. </sub> | `ESP32-CAM` `OpenCV` `PWM Algo` |
+| <img src="https://media.giphy.com/media/5ftsmLIqktHQA/giphy.gif" width="50"> | **LPC2148 Smart Systems** <br> <sub>Bare-metal programming on **ARM7** for real-time sensor data processing, interrupts, and hardware interfacing. </sub> | `LPC2148` `Embedded C` `Ultrasonic` |
 
 ---
 
 <div align="center">
 
-### **GitHub Analytics**
+### 📊 **COMPUTATIONAL OUTPUT**
 
-<a href="https://github.com/Dragon-096">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=Dragon-096&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dragon-096&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-096&theme=tokyonight&hide_border=false&layout=compact)
 
 <br>
 
@@ -53,8 +65,6 @@ From **Kalman filtering on drones** to **vision-guided pick-and-place bots**, I 
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer&text=Turning%20Logic%20Into%20Reality&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" width="100%">
 </div>
