@@ -59,6 +59,12 @@ Keil uVision • Proteus • Arduino IDE • MATLAB • ISE Design Suite
 - Kalman filter for GPS accuracy
 - Firebase + Android app integration
 
+### STM32-Based Modular Battery Management System (BMS)
+- 2025–2026– Developed a modular Battery Management System (BMS) using STM32F401RE.
+-  ATtiny1604 MCUs for cell voltage monitoring, temperature monitoring, and pack-level control.
+-  Implemented I2C-based distributed communication and passive cell balancing for Li-ion battery packs.
+-  Implemented Coulomb Counting-based State of Charge (SOC) estimation for Li-ion battery packs.
+
 ### 🤖 ESP32 Vision Pick-and-Place Robot
 - ESP32-CAM vision pipeline
 - Differential drive with PWM optimization
@@ -69,10 +75,6 @@ Keil uVision • Proteus • Arduino IDE • MATLAB • ISE Design Suite
 - Threshold tuning for reliability
 - Autonomous navigation algorithms
 
-### 🅿️ Smart Parking System (LPC2148)
-- Ultrasonic-based vehicle detection
-- Real-time slot occupancy logic
-- Embedded C implementation
 
 ---
 
